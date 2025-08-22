@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Abirami Christopher
 
-## Aspiring QA Engineer | DevOps Learner | UI/UX Enthusiast
+## Aspiring QA Engineer | PM Learner | UI/UX Enthusiast
 
 - **Quality Assurance (QA):**  
   Manual Testing, Test Case Writing, Bug Reporting, API Testing (Postman), Selenium (learning).
 
-- **DevOps (In Progress):**  
-  Basics of Linux, Git, Docker, Jenkins, CI/CD Pipelines, Cloud (AWS), building small GitHub projects.
+- **Project Management(In Progress):**  
+  Task Planning & Tracking (Trello, Jira), Agile & Scrum Methodologies, Sprint Planning, Backlog Grooming, Stand-ups, Team Collaboration & Documentation
 
 - **UI/UX Enthusiast:**  
   UI/UX Design (Figma), Wireframing, User Research, Design Thinking.
 ---
 ## Current Focus
-- 💻 **Learning Path:** Software Testing, Selenium, API Testing, DevOps Basics.
-- 📝 **Building Projects:** Test case repositories, automation frameworks, DevOps mini-projects.
-- 🎯 **Goal:** Secure a QA or DevOps internship within 3 months and build a solid portfolio.
+- Learning Path: Manual & Automation Testing (Selenium), API Testing, QA Best Practices.
+- Building Projects: Test case repositories, automation frameworks, UI/UX portfolio designs, project management workflows.
+- Goal: Secure a QA internship within 3 months while building a strong QA + UI/UX + Project Management portfolio..
 ---
 ## Open to
 - QA Projects (Manual + Automation)
-- DevOps Practice Projects (CI/CD, Docker)
-- UI/UX Design Collaboration
-- Open-source Contributions
+- UI/UX Design Collaboration & Portfolio Projects
+- Project Management Practice Projects (Task Planning, Agile, Sprint Boards)
+- Open-source QA/UI/UX Contributions
 ---
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/abirami-christopher-0a0428298)
