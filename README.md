@@ -4,6 +4,8 @@
 
 - **Quality Assurance (QA):**  
   Manual Testing, Test Case Writing, Bug Reporting, API Testing (Postman), Selenium (learning).
+- **Frontend Development:**
+  HTML, CSS, JavaScript, React (learning), WordPress building interactive web components and responsive UI.
 
 - **Project Management(In Progress):**  
   Task Planning & Tracking (Trello, Jira), Agile & Scrum Methodologies, Sprint Planning, Backlog Grooming, Stand-ups, Team Collaboration & Documentation
@@ -12,13 +14,14 @@
   UI/UX Design (Figma), Wireframing, User Research, Design Thinking.
 ---
 ## Current Focus
-- Learning Path: Manual & Automation Testing (Selenium), API Testing, QA Best Practices.
-- Building Projects: Test case repositories, automation frameworks, UI/UX portfolio designs, project management workflows.
+- Learning Path: Manual & Automation Testing (Selenium), API Testing, QA Best Practices. 
+- Building Projects: Test case repositories, automation frameworks, UI/UX portfolio designs, project management workflows.Frontend Development (HTML, CSS, JS, React).
 - Goal: Secure a QA internship within 3 months while building a strong QA + UI/UX + Project Management portfolio..
 ---
 ## Open to
 - QA Projects (Manual + Automation)
 - UI/UX Design Collaboration & Portfolio Projects
+- Frontend Development Projects (Web Apps, UI Components)
 - Project Management Practice Projects (Task Planning, Agile, Sprint Boards)
 - Open-source QA/UI/UX Contributions
 ---
