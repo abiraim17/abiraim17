@@ -1,39 +1,19 @@
-# 👋 Hi, I'm Abirami Christopher
+# Hi, I'm Abirami Christopher
 
-## Aspiring QA Engineer | PM Learner | UI/UX Enthusiast
+### Aspiring Frontend Developer | QA Learner | UI/UX Enthusiast
 
-- **Quality Assurance (QA):**  
-  Manual Testing, Test Case Writing, Bug Reporting, API Testing (Postman), Selenium (learning).
-- **Frontend Development:**
-  HTML, CSS, JavaScript, React (learning), WordPress building interactive web components and responsive UI.
+I’m passionate about building **user-friendly web experiences** and ensuring quality through **testing and design thinking**.  
+Currently, I’m sharpening my skills in **HTML, CSS, JavaScript, React**, and **Selenium**, while designing **UI/UX projects** in Figma and exploring **Agile project management** workflows.
 
-- **Project Management(In Progress):**  
-  Task Planning & Tracking (Trello, Jira), Agile & Scrum Methodologies, Sprint Planning, Backlog Grooming, Stand-ups, Team Collaboration & Documentation
+**Goal:** Secure a **QA or Frontend internship** within 3 months while building a portfolio that showcases **development, design, and testing** skills.  
 
-- **UI/UX Enthusiast:**  
-  UI/UX Design (Figma), Wireframing, User Research, Design Thinking.
----
-## Current Focus
-- Learning Path: Manual & Automation Testing (Selenium), API Testing, QA Best Practices. 
-- Building Projects: Test case repositories, automation frameworks, UI/UX portfolio designs, project management workflows.Frontend Development (HTML, CSS, JS, React).
-- Goal: Secure a QA internship within 3 months while building a strong QA + UI/UX + Project Management portfolio..
----
-## Open to
-- QA Projects (Manual + Automation)
-- UI/UX Design Collaboration & Portfolio Projects
-- Frontend Development Projects (Web Apps, UI Components)
-- Project Management Practice Projects (Task Planning, Agile, Sprint Boards)
-- Open-source QA/UI/UX Contributions
----
-## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/abirami-christopher-0a0428298)
-- [Blog](https://naturespeaksbyabira.blogspot.com/)
-- [Behance](https://www.behance.net/abiramiac)
----
-### 🎶 Fun Fact
-Nature lover 🌿 | Music enthusiast 🎵 | Learning musical instruments 🎹
+**Skills:** Frontend Development | QA (Manual & Automation) | UI/UX Design | Agile Project Management  
 
----
+**Portfolio & Projects:**  
+- GitHub Repositories (JavaScript projects & automation practice)  
+- UI/UX Designs on [Behance](https://www.behance.net/abiramiac)  
+- Personal blog: [NatureSpeaksByAbira](https://naturespeaksbyabira.blogspot.com/)  
 
-> _Learning, Building, Growing… One Skill at a Time!_
+🌿 Nature lover | 🎵 Music enthusiast | 🎹 Learning musical instruments  
 
+> _Learning, Building, and Growing — one skill at a time._
