@@ -1,19 +1,48 @@
-# Hi, I'm Abirami Christopher
+# 👋 Hi, I'm Abirami Christopher
 
-### Aspiring Frontend Developer | QA Learner | UI/UX Enthusiast
+## SE Undergraduate | Aspiring QA Engineer | Frontend Developer | UI/UX Enthusiast | 
 
-I’m passionate about building **user-friendly web experiences** and ensuring quality through **testing and design thinking**.  
-Currently, I’m sharpening my skills in **HTML, CSS, JavaScript, React**, and **Selenium**, while designing **UI/UX projects** in Figma and exploring **Agile project management** workflows.
+I’m passionate about building **user-friendly web experiences** and ensuring quality through **testing, design thinking, and development**.  
+Currently learning **Python & Django**, sharpening **Frontend skills (HTML, CSS, JavaScript, React)**, designing **UI/UX projects in Figma**, and practicing **QA principles & Agile workflows**.  
 
-**Goal:** Secure a **QA or Frontend internship** within 3 months while building a portfolio that showcases **development, design, and testing** skills.  
+---
 
-**Skills:** Frontend Development | QA (Manual & Automation) | UI/UX Design | Agile Project Management  
+## 💻 Skills
 
-**Portfolio & Projects:**  
-- GitHub Repositories (JavaScript projects & automation practice)  
-- UI/UX Designs on [Behance](https://www.behance.net/abiramiac)  
-- Personal blog: [NatureSpeaksByAbira](https://naturespeaksbyabira.blogspot.com/)  
+### Programming & Development
+Python  
+Django  
+JavaScript  
+React  
+HTML  
+CSS  
 
-🌿 Nature lover | 🎵 Music enthusiast | 🎹 Learning musical instruments  
+### Quality Assurance & Testing
+Selenium  
+Postman  
+Manual Testing | Test Case Writing | Bug Reporting | Automation (learning) | API Testing  
 
-> _Learning, Building, and Growing — one skill at a time._
+### UI/UX Design
+Figma  
+Wireframing | User Research | Design Thinking | Prototyping  
+
+### Project Management
+Agile & Scrum | Task Planning | Sprint Planning | Backlog Grooming | Stand-ups  
+
+---
+
+## 🚀 Projects & Portfolio
+
+- JavaScript practice projects  
+- Manual test cases for login functionality  
+- QA test scripts for websites  
+- Interactive JS & CSS UI components  
+- Python & Django projects (coming soon)  
+
+---
+
+### 🎶 Fun Fact
+
+Nature lover 🌿 | Music enthusiast 🎵 | Learning musical instruments 🎹
+
+> _Learning, Building, and Growing — one skill at a time._ 🌿
