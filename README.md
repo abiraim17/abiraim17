@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abirami Christopher
 
-## SE Undergraduate | Aspiring QA Engineer | Frontend Developer | UI/UX Enthusiast | 
+## SE Undergraduate  Frontend Developer | Python Developer | Aspiring QA Engineer | UI/UX Enthusiast | 
 
 I’m passionate about building **user-friendly web experiences** and ensuring quality through **testing, design thinking, and development**.  
 Currently learning **Python & Django**, sharpening **Frontend skills (HTML, CSS, JavaScript, React)**, designing **UI/UX projects in Figma**, and practicing **QA principles & Agile workflows**.  
